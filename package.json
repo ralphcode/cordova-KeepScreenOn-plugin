@@ -1,0 +1,29 @@
+{
+  "name": "cordova-keepscreenon-plugin",
+  "version": "0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-keepscreenon-plugin",
+    "platforms": [
+      "ios", 
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ralpharoo/cordova-KeepScreenOn-plugin.git"
+  },
+  "keywords": [],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Ralpharro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ralpharoo/cordova-KeepScreenOn-plugin/issues"
+  },
+  "homepage": "https://github.com/Ralpharoo/cordova-KeepScreenOn-plugin#readme"
+}
